@@ -6,5 +6,5 @@
 Τεχνολογίες που θα χρησιμοποιηθούν:
   Front End : React,
   Back End / Middleware : Java - SpringBoot,
-  Database : PostgreSQL
+  Database : PostgreSQL,
   API άντλησης δεδομένων : https://rapidapi.com/omgvamp/api/hearthstone?endpoint=5525c52ee4b0bfd836a813e5
